@@ -1,5 +1,5 @@
 # parse-eml
-Python parser to extract EML file contents, headers, relays, urls, and html
+Python parser to extract EML headers, relays, urls, html, and attachments
 
     .NAME
         Parse-eml.py
