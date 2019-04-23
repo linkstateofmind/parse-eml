@@ -1,8 +1,8 @@
 # parse-eml
 Python parser to extract EML file contents
 
- .NAME
-     Parse-eml.py
+  .NAME
+       Parse-eml.py
 
  .SYNOPSIS
      This parser automates analysis and extraction of indicators from EML files.
